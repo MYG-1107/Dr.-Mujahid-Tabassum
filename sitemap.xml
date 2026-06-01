@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!--
   Sitemap – Dr. Mujahid Tabassum Portfolio
-  URL: https://www.mujahidtabassum.com/sitemap.xml
+  URL: https://myg-1107.github.io/Dr.-Mujahid-Tabassum/sitemap.xml
   Submit to:
     Google Search Console: https://search.google.com/search-console
     Bing Webmaster Tools:  https://www.bing.com/webmasters
@@ -17,7 +17,7 @@
 
   <!-- Home / Portfolio (single-page) -->
   <url>
-    <loc>https://www.mujahidtabassum.com/</loc>
+    <loc>https://myg-1107.github.io/Dr.-Mujahid-Tabassum/</loc>
     <lastmod>2026-06-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>1.0</priority>
@@ -25,49 +25,49 @@
 
   <!-- Section anchors (helps Google understand page structure) -->
   <url>
-    <loc>https://www.mujahidtabassum.com/#about</loc>
+    <loc>https://myg-1107.github.io/Dr.-Mujahid-Tabassum/#about</loc>
     <lastmod>2026-06-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
-    <loc>https://www.mujahidtabassum.com/#experience</loc>
+    <loc>https://myg-1107.github.io/Dr.-Mujahid-Tabassum/#experience</loc>
     <lastmod>2026-06-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
-    <loc>https://www.mujahidtabassum.com/#education</loc>
+    <loc>https://myg-1107.github.io/Dr.-Mujahid-Tabassum/#education</loc>
     <lastmod>2026-06-01</lastmod>
     <changefreq>rarely</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
-    <loc>https://www.mujahidtabassum.com/#skills</loc>
+    <loc>https://myg-1107.github.io/Dr.-Mujahid-Tabassum/#skills</loc>
     <lastmod>2026-06-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
-    <loc>https://www.mujahidtabassum.com/#research</loc>
+    <loc>https://myg-1107.github.io/Dr.-Mujahid-Tabassum/#research</loc>
     <lastmod>2026-06-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
 
   <url>
-    <loc>https://www.mujahidtabassum.com/#awards</loc>
+    <loc>https://myg-1107.github.io/Dr.-Mujahid-Tabassum/#awards</loc>
     <lastmod>2026-06-01</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
 
   <url>
-    <loc>https://www.mujahidtabassum.com/#contact</loc>
+    <loc>https://myg-1107.github.io/Dr.-Mujahid-Tabassum/#contact</loc>
     <lastmod>2026-06-01</lastmod>
     <changefreq>rarely</changefreq>
     <priority>0.6</priority>
