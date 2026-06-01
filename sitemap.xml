@@ -1,9 +1,76 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-    <url>
-        <loc>https://yourdomain.com/</loc>
-        <lastmod>2026-06-02</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>1.0</priority>
-    </url>
+<!--
+  Sitemap – Dr. Mujahid Tabassum Portfolio
+  URL: https://www.mujahidtabassum.com/sitemap.xml
+  Submit to:
+    Google Search Console: https://search.google.com/search-console
+    Bing Webmaster Tools:  https://www.bing.com/webmasters
+
+  Update <lastmod> whenever you publish changes.
+  <changefreq> hints to crawlers how often to check.
+  <priority> ranks pages relative to each other (1.0 = most important).
+-->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+        xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+        http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+  <!-- Home / Portfolio (single-page) -->
+  <url>
+    <loc>https://www.mujahidtabassum.com/</loc>
+    <lastmod>2026-06-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- Section anchors (helps Google understand page structure) -->
+  <url>
+    <loc>https://www.mujahidtabassum.com/#about</loc>
+    <lastmod>2026-06-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.mujahidtabassum.com/#experience</loc>
+    <lastmod>2026-06-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.mujahidtabassum.com/#education</loc>
+    <lastmod>2026-06-01</lastmod>
+    <changefreq>rarely</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.mujahidtabassum.com/#skills</loc>
+    <lastmod>2026-06-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.mujahidtabassum.com/#research</loc>
+    <lastmod>2026-06-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://www.mujahidtabassum.com/#awards</loc>
+    <lastmod>2026-06-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://www.mujahidtabassum.com/#contact</loc>
+    <lastmod>2026-06-01</lastmod>
+    <changefreq>rarely</changefreq>
+    <priority>0.6</priority>
+  </url>
+
 </urlset>
