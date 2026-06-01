@@ -1,5 +1,13 @@
+# robots.txt – Dr. Mujahid Tabassum Portfolio
+# https://www.mujahidtabassum.com/robots.txt
+#
+# Allow all search engine crawlers full access
+
 User-agent: *
 Allow: /
 
-# Sitemap Location Pointer Targeting Direct Domain Maps
-Sitemap: https://yourdomain.com/sitemap.xml
+# Sitemap location (submit this URL to Google Search Console)
+Sitemap: https://www.mujahidtabassum.com/sitemap.xml
+
+# Crawl-delay (polite crawling for smaller crawlers)
+Crawl-delay: 5
