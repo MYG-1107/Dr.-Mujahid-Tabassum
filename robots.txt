@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+
+# Sitemap Location Pointer Targeting Direct Domain Maps
+Sitemap: https://yourdomain.com/sitemap.xml
